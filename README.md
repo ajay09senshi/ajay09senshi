@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ajay09senshi
-- 👀 I’m interested in MAchine Learning
-- 🌱 I’m currently learning Data Science and Engineering
-- 💞️ I’m looking to collaborate on Machine learning Projects
-- 📫 How to reach me ...
+- 👋 Hi there,
+- 👀 I’m Ajay Kumar
+- 🌱 I’m currently working in HCLTech as Data Analyst.
+- 💞️ I’m persuing Mtech in Data Science and ready to collborate in Machine learning Project
+- 📫 How to reach me 
 
 <!---
 ajay09senshi/ajay09senshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
